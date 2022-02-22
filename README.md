@@ -1,5 +1,7 @@
 # Merge-Sort
-**Merge Sort** is a sorting algorithm used in **Computer Science**. Time complexity cases of **Merge Sort** are:
+**Merge Sort** is a sorting algorithm used in **Computer Science**. 
+
+Time complexity cases of **Merge Sort** are:
 
 *Best Case Complexity O(n*log n)   *
 
